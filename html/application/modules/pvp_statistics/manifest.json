@@ -1,0 +1,10 @@
+{
+	"name":"Estadisticas PvP",
+	"description":"Estadisticas de los mejores Players",
+	"author":
+	{
+		"name":"ChoMPi",
+		"website":""
+	},
+	"enabled":true
+}
